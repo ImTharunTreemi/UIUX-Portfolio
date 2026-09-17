@@ -43,8 +43,8 @@ Here is how a project goes from a blank canvas to a finished file:
 Navigate through my progress in the `Daily Designs` directory. Each folder contains the high-fidelity mockups and any relevant notes for that specific prompt. 
 
 ```text
-📁 Daily-Designs-Vault
- ┣ 📂 Daily Designs
+📁 UIUX-Portfolio
+ ┣ 📂 Daily-Designs
  ┃ ┣ 📂 Day 01 - 10   
  ┃ ┣ 📂 Day 11 - 20       
  ┃ ┣ 📂 Day 21 - 30       
