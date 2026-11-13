@@ -24,7 +24,7 @@ If you love seeing the raw evolution of design skills, you are in the right plac
 
 ## 🚀 The Challenge
 
-For 100 consecutive working days, I receive a unique, surprise design prompt in my inbox. The goal isn't just to make something that looks pretty—it's to rapidly ideate, focus on the user experience, and deliver a clean, functional interface within a tight timeframe.
+For 70 consecutive working days, I receive a unique, surprise design prompt in my inbox. The goal isn't just to make something that looks pretty—it's to rapidly ideate, focus on the user experience, and deliver a clean, functional interface within a tight timeframe.
 
 ---
 
