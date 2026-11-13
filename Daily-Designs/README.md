@@ -3,7 +3,7 @@
   <!-- 💡 TIP: Add a nice banner image here later! Just upload an image to your repo and link it here -->
   <!-- <img src="link-to-your-cool-banner-image.png" alt="100 Days of UI Banner" width="100%" /> -->
 
-  <h1>🎨 100 Days of UI: The Daily Design Vault</h1>
+  <h1>🎨 70 Days of UI: The Daily Design Vault</h1>
   
   <p>
     <strong>Turning daily email prompts into pixel-perfect experiences, one day at a time.</strong>
@@ -15,7 +15,7 @@
 
 Welcome to my **Daily Designs** workspace! 👋 
 
-This repository is a living, breathing showcase of my journey through the 100-day [Daily UI](https://www.dailyui.co/) challenge. As I actively build my UI/UX portfolio, this space serves as a chronological record of my growth, experiments, and creative problem-solving.
+This repository is a living, breathing showcase of my journey through the 70-day [Daily UI](https://www.dailyui.co/) challenge. As I actively build my UI/UX portfolio, this space serves as a chronological record of my growth, experiments, and creative problem-solving.
 
 
 If you love seeing the raw evolution of design skills, you are in the right place. **Dive into the folders and take a look around!** 👀
